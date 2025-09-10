@@ -455,7 +455,6 @@ def main():
             md_report.append(analyzer.dataframe_to_markdown_table(side_display))
             md_report.append("")
 
-            # Save side genres chart - FIXED: Use the correct column names
             analyzer.create_bar_chart(
                 side_genres,
                 f'{main_genre} ile En Çok Sevilen Yan Türler',
