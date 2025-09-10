@@ -1,0 +1,15 @@
+# AnimeGenreAnalyst - Gereksinimler
+# ================================
+
+# Temel veri işleme ve analiz
+pandas>=1.3.0        # Veri manipülasyonu ve analiz için
+numpy>=1.21.0        # Matematiksel işlemler ve array operasyonları
+
+# Görselleştirme kütüphaneleri
+matplotlib>=3.5.0    # Grafik ve chart oluşturma
+seaborn>=0.11.0      # İstatistiksel veri görselleştirme
+
+# Raporlama ve çıktı formatlama
+tabulate>=0.8.0      # Tablo formatında güzel çıktılar için
+
+# Not: Python 3.8+ gereklidir
