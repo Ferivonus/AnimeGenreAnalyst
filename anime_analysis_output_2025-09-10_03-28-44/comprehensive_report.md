@@ -1,6 +1,6 @@
 # 🎯 Anime Tür Analiz Raporu
 
-**Analiz Tarihi:** 2025-09-10 00:52:16  
+**Analiz Tarihi:** 2025-09-10 03:28:44  
 **Toplam Anime Sayısı:** 12,017  
 **Toplam Tür Sayısı:** 43  
 
@@ -301,11 +301,11 @@ Bu analiz, anime türlerinin performansını ve birbirleriyle olan etkileşimler
 
 ---
 
-*Bu rapor otomatik olarak oluşturulmuştur. Son güncelleme: 2025-09-10 00:52:16*  
+*Bu rapor otomatik olarak oluşturulmuştur. Son güncelleme: 2025-09-10 03:28:44*  
 
 ### 📁 Dosya Yapısı
 ```
-./anime_analysis_output_2025-09-10_00-52-16/
+./anime_analysis_output_2025-09-10_03-28-44/
 ├── charts/                 # Grafikler (PNG)
 ├── tables/                 # Tablo görselleri (PNG)
 ├── text_reports/           # Metin raporları (TXT)
